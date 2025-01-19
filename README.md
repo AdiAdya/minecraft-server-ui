@@ -13,7 +13,7 @@
    git clone https://github.com/AdiAdya/minecraft-server-ui.git
    ```
    ```
-   cd frontend-assignment
+   cd minecraft-server-ui
    ```
 2. Install dependencies:
    ```
